@@ -5,13 +5,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+ ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <a href="shubhammendapara2441@gmail.com">📫</a> this is were you can How to reach me .
 -->
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shubham Mendapara
 
@@ -20,15 +20,20 @@ Here are some ideas to get you started:
 ![Repos Badge](https://badges.pufler.dev/repos/Shubham-2007/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/Shubham-2007/?color=red)
 
-<h4 align="left">I’m Pursuing majors in Computer Science and Technology,<br>
-I aspire to work for an industry to get hands-on
-experience on the latest technology and work there as a full
-time developer.</h4>
+Pursuing majors in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
-- All of my projects are available at <a href="https://shubham-2007.github.io/Portfolio">👨‍💻</a>.
-- How to reach me <a href="shubhammendapara2441@gmail.com">📫</a>.
-- Know about my experiences <a href="https://github.com/Shubham-2007/Shubham-2007/blob/main/document/Shubham_Resume.pdf">📄</a>.
-<br>
+I aspire to work with an industry to get hands-on experience on the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
+Along with this technical knowledge I also love to work as Graphic Designer. I enjoy doing creative things in my design during my pastime, therefore I try to do as many things as possible to make it beautiful and splendid.<br>
+
+
+Happy to connect 🤟🏻
+- <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> This is place were I will complete my Graduation
+- <a href="https://github.com/Shubham-2007"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/flutter.png" /></a> I’m currently learning Flutter App Development
+- <a href="https://drive.google.com/drive/folders/1KyrMaQDkR2vWUW6CEkm3n8bgo-wL2KBb?usp=sharing"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/ai.png" /></a> Proved to be a Graphic designer
+- <a href="https://shubham-2007.github.io/Portfolio">👨‍💻</a> Here you can get my portfolio available.
+- <a href="https://github.com/Shubham-2007/Shubham-2007/blob/main/document/Shubham_Resume.pdf">📄</a> Know about my experiences
+- 📫 How to reach me: shubhammendapara2441@gmail.com
+- ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile
 
 ## Connect with me:
 <p align="left">
@@ -63,8 +68,8 @@ time developer.</h4>
 ## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Flutter        6 mins          █████████████████▒░░░░░░░   69.71 % 
-Designing      2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
+Flutter        40 mins          █████████████████▒░░░░░░░   66.33 % 
+Designing      20 mins          ███████▓░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 <!--END_SECTION:waka-->
 <br>
