@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shubham Mendapara
 
 ![](https://komarev.com/ghpvc/?username=Shubham-2007&color=red&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/Shubham-2007/Shubham-2007/?color=red)
-![Repos Badge](https://badges.pufler.dev/repos/Shubham-2007/?color=red)
-![Years Badge](https://badges.pufler.dev/years/Shubham-2007/?color=red)
 
 Pursuing majors in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
