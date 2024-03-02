@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Shubham-2007&color=red&style=flat)
 
-Pursuing majors in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
+Pursuing majors in Computer Science, Khoury College of Computer Sciences, Northeastern University.<br>
 
-I aspire to work with an industry to get hands-on experience on the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
-Along with this technical knowledge I also love to work as Graphic Designer. I enjoy doing creative things in my design during my pastime, therefore I try to do as many things as possible to make it beautiful and splendid.<br>
+I aspire to work with an industry to get hands-on experience with the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
+Along with this technical knowledge I also love to work as a Graphic Designer. I enjoy doing creative things in my design during my pastime, therefore I try to do as many things as possible to make it beautiful and splendid.<br>
 
 
 Happy to connect 🤟🏻
-- <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> This is place were I will complete my Graduation
+- <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> This is place were I will complete my Bachelor.
 - <a href="https://github.com/Shubham-2007"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/flutter.png" /></a> I’m currently learning Flutter App Development
 - <a href="https://drive.google.com/drive/folders/1KyrMaQDkR2vWUW6CEkm3n8bgo-wL2KBb?usp=sharing"><img width="18px" src="https://github.com/Shubham-2007/Shubham-2007/blob/main/assets/ai.png" /></a> Proved to be a Graphic designer
 - <a href="https://shubham-2007.github.io/Portfolio">👨‍💻</a> Here you can get my portfolio available.
 - <a href="https://github.com/Shubham-2007/Shubham-2007/blob/main/document/Shubham_Resume.pdf">📄</a> Know about my experiences
 - 📫 How to reach me: shubhammendapara2441@gmail.com
-- ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile
+- ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making others smile
 
 ## Connect with me:
 <p align="left">
