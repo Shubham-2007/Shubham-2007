@@ -84,9 +84,6 @@ Designing      20 mins          ███████▓░░░░░░░░
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-2007&show_icons=true&locale=en&layout=compact" alt="shubham-2007" /></p>
 <br>
 
-## Stats...
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubham-2007&show_icons=true&locale=en" alt="shubham-2007" /></p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-2007&" alt="shubham-2007" /></p>
 
 
